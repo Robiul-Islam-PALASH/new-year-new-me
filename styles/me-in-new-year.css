@@ -33,7 +33,7 @@ header .header-description {
     margin-bottom: 140px;
 }
 header{
-    background-image: url(/images/banner/banner1.png);
+    background-image: url(../images/banner/banner1.png);
     background-repeat: no-repeat;
 }
 
