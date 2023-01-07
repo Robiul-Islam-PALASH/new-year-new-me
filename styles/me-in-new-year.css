@@ -116,7 +116,7 @@ header{
     color: #f8f8f8;
 }
 .photography{
-    background-image: url(/images/banner/photography-bg.jpg);
+    background-image: url(../images/banner/photography-bg.jpg);
     background-repeat: no-repeat;
     height: 600px;
     width: 400px;
