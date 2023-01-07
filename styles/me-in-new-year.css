@@ -1,0 +1,240 @@
+* { 
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Work Sans', sans-serif;
+}
+
+/* Header Styles */
+
+header .header-title {
+    font-size: 65px;
+    font-weight: 700;
+    text-align: right;
+    padding: 216px 230px 0px 545px;
+}
+
+header .header-description {
+    color: #444343;
+    text-align: right;
+    padding: 0 230px 0px 700px;
+}
+
+.header-btn {
+    height: 64px;
+    width: 160px;
+    margin-left: 944px;
+    margin-top: 24px;
+    top: 578px;
+    border-radius: 5px;
+    font-weight: 600;
+    font-size: 20px;
+    background: #F15B22;
+    color: #ffffff;
+    border: none;
+    margin-bottom: 140px;
+}
+header{
+    background-image: url(/images/banner/banner1.png);
+    background-repeat: no-repeat;
+}
+
+/* Failures Section Styles */
+.my-failures{
+    display: flex;
+    margin-top: 60px;
+    margin-left: 130px;
+}
+.my-failures .title{
+    font-weight: 700;
+    font-size: 40px;
+    color: #151414;
+    text-align: left;
+    padding: 370px 230px 0 87px;
+
+}
+.my-failures .description{
+    text-align: left;
+    padding: 0 230px 0 87px;
+
+
+}
+
+.my-failures .failures-list{
+    list-style: none;
+    text-align: left;
+    padding: 0 230px 0 87px;
+}
+.my-failures .checkmark{
+    color: #16D887;
+}
+
+/* My Plan styles */
+.my-plan{
+    font-weight: 700;
+    font-size: 30px;
+    margin-top: 130px;
+    padding: spacebeteen;
+}
+.items{
+    display: flex;
+}
+.my-plan-title{
+    font-weight: 700;
+    font-size: 50px;
+    text-align: center;
+    margin-bottom: 80px;
+}
+.plan-item-description{
+    margin-top: 0;
+    padding-top: 0;
+    font-weight: 500;
+    font-size: 25px;
+}
+.plan-item{
+    padding-left: 80px;
+    text-align: center;
+}
+
+/* Hobby Styles */
+.hobby-title{
+    font-weight: 700;
+    font-size: 50px;
+    text-align: center;
+    margin-top: 130px;
+
+}
+.photography-title{
+    font-weight: 700;
+    font-size: 30px;
+    color: #F15B22;
+    text-align: left;
+
+}
+.photography-description{
+    padding: 55px;
+    font-size: 20px;
+    color: #f8f8f8;
+}
+.photography{
+    background-image: url(/images/banner/photography-bg.jpg);
+    background-repeat: no-repeat;
+    height: 600px;
+    width: 400px;
+    margin-left: 250px;
+}
+.photography-title{
+    padding-left: 10px;
+    
+}
+.riding-title{
+    font-weight: 700;
+    font-size: 30px;
+    color: #F15B22;
+    text-align: left;
+    margin-top: 20px;
+    margin-left: 25px;
+    justify-content: center;
+}
+.riding-description{
+    padding: 60px;
+    font-size: 20px;
+    color: #f8f8f8;
+}
+.riding-text{
+    background-image: url(/images/banner/rider-bg.jpg);
+    background-repeat: no-repeat;
+    height: 600px;
+    width: 400px;
+    margin-left: 25px;
+}
+.hobby-text{
+    display: flex;
+}
+
+/* Call Now Styles */
+.call-now-title{
+    font-weight: 700;
+    font-size: 40px;
+    padding-top: 50px;
+    padding-left: 80px;
+    padding-right: 417px;
+    color: #ffffff;
+    
+}
+.call-now-btn{
+    font-weight: 600;
+    font-size: 20px;
+    height: 64px;
+    width: 160px;
+    border-radius: 5px;
+    border: none;
+    color: #F15B22;
+    margin-left: 80px;
+}
+.call-now{
+
+    background: linear-gradient(to left, transparent, #F15B22), url(/images/watch.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 300px;
+    width: 1000px;
+    margin-top: 170px;
+    margin-left: 160px;
+    border-radius: 5px;
+    
+}
+
+/* Footer Section */
+footer{
+    height: 500px;
+    width: 100%;
+    background-color: #151414;
+    margin-top: 130px;
+    padding-top: 150px;
+    display: flex;
+}
+.future{
+    color: #f8f8f8;
+    margin-right: 100px;
+}
+.future h1{
+    font-weight: 700;
+    font-size: 45px;
+    margin-left: 160px;
+}
+.future p{
+    margin-left: 160px;
+}
+.future .images{
+    margin-left: 160px;
+}
+.subscribe h1{
+    color: #f8f8f8;
+    margin-left: 160px;
+}
+.subscribe .email{
+    margin-left: 160px;
+    height: 64px;
+    width: 325px;
+    background-color: transparent;
+    border: 2px solid #f8f8f8;
+    border-radius: 5px;
+    color: #f8f8f8;
+    font-weight: 500;
+    font-size: 18px;
+    padding-left: 10px;
+    
+}
+.subscribe .subscribe-btn{
+    font-weight: 600;
+    font-size: 20px;
+    height: 64px;
+    width: 160px;
+    border-radius: 5px;
+    border: none;
+    color: #F15B22;
+    margin-left: 160px;
+
+}
+.subscribe{
+    margin-right: 170px;
+}
