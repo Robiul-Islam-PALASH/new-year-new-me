@@ -141,7 +141,7 @@ header{
     color: #f8f8f8;
 }
 .riding-text{
-    background-image: url(/images/banner/rider-bg.jpg);
+    background-image: url(../images/banner/rider-bg.jpg);
     background-repeat: no-repeat;
     height: 600px;
     width: 400px;
@@ -173,7 +173,7 @@ header{
 }
 .call-now{
 
-    background: linear-gradient(to left, transparent, #F15B22), url(/images/watch.png);
+    background: linear-gradient(to left, transparent, #F15B22), url(../images/watch.png);
     background-repeat: no-repeat;
     background-position: center;
     height: 300px;
